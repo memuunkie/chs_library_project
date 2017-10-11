@@ -1,3 +1,4 @@
+
 """ Models and database functions for CHS database """
 
 from flask_sqlalchemy import SQLAlchemy
